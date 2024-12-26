@@ -3,7 +3,7 @@ import "@/public/scss/main.scss";
 import InitAnimations from "@/components/layout/InitAnimations";
 
 export const metadata: Metadata = {
-  title: "Amohaa - Web hosting & WHMCS React NextJs Template",
+  title: "Amohaa - web serviecs",
   description: "Web hosting & WHMCS React NextJs Template",
   keywords: [
     "clean",
